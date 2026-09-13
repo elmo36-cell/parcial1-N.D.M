@@ -21,4 +21,11 @@ namespace DemoBiblioteca
         public override double Area() => Base * Altura;
         public override double Perimetro() => 2 * (Base + Altura);
     }
+
+    public class Circulo : Figura
+    {
+        public double Radio { get; set; }
+        public override double Area() => Math.PI * (Radio * Radio);
+        public override double Perimetro() => 2 * Math.PI * Radio;
+    }
 }

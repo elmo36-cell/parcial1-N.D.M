@@ -9,7 +9,7 @@ namespace DemoPruebaUnitaria
         public void TestAreaCuadrado()
         {
             var cuadrado = new Cuadrado { Lado = 5.0 };
-            double resultado=cuadrado.Area();
+            double resultado = cuadrado.Area();
             Assert.AreEqual(25.0, resultado);
         }
         [TestMethod]
