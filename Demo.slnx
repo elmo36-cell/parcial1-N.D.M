@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="DemoBiblioteca/DemoBiblioteca.csproj" Id="592da84f-6b7a-47be-bafc-d17cd3395970" />
-  <Project Path="DemoPruebaUnitaria/DemoPruebaUnitaria.csproj" Id="b956f03d-3679-4cb0-bcb2-da8ef38c6901" />
+  <Project Path="Parcial1lib/Parcial1lib.csproj" Id="5b4aba17-ff6f-43f1-a1d3-0648c0f6eaae" />
+  <Project Path="Parcial1test/Parcial1test.csproj" Id="53b683f3-77e9-4869-b525-a4c94866f346" />
 </Solution>
